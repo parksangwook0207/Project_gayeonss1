@@ -8,3 +8,6 @@ $git lfs track ""
 $git lfs track "*.zip"
 $git lfs track "*.psd"
 $git lfs track *
+$git add .
+$git commit -m "Project Upload"
+$git push
