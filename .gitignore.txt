@@ -1,0 +1,10 @@
+/Library
+/Temp
+/Logs
+/obj
+
+$git lfs install
+$git lfs track ""
+$git lfs track "*.zip"
+$git lfs track "*.psd"
+$git lfs track *
